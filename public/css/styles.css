@@ -1,0 +1,5 @@
+.nav-login form,
+.nav-login .form-group {
+    display: flex;
+    margin: 0;
+}
